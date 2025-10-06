@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JIRNOFF/03_blog_map)
-- Live Site URL: [Add live site URL here](https://jirnoff.github.io/03_blog_map/)
+- Solution URL: [Solution](https://github.com/JIRNOFF/03_blog_map)
+- Live Site URL: [Live site](https://jirnoff.github.io/03_blog_map/)
 
 ## My process
 
@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](JIRNOFF)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JIRNOFF)
+- Website - [JIRNOFF](https://jirnoff.github.io/03_blog_map/)
+- Frontend Mentor - [@JIRNOFF](https://www.frontendmentor.io/profile/JIRNOFF)
